@@ -30,6 +30,24 @@ Users can upload their own email datasets, configure dataset labels, train a neu
 - Predict whether an email is SPAM or HAM
 - Display prediction confidence and spam probability
 - In-app prediction history
+## Application Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Dataset Management
+![Dataset Management 1](Screenshots/Dataset_management_1.png)
+![Dataset Management 2](Screenshots/dataset_management_2.png)
+![Dataset Management 3](Screenshots/dataset_management_3.png)
+![Dataset Management 4](Screenshots/dataset_management_4.png)
+
+### Model Training
+![Model Training Settings](Screenshots/model_training_settings.png)
+![Model Training Results](Screenshots/model_training_result.png)
+![Training Graphs](Screenshots/model_traning_graphs.png)
+
+### Email Prediction
+![Email Prediction](Screenshots/email_prediction.png)
 
 ## Technologies Used
 
